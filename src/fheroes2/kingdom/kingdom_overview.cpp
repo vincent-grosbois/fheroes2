@@ -110,6 +110,7 @@ public:
 
 private:
     std::vector<HeroRow> content;
+
     void SetContent( KingdomHeroes & heroes );
 };
 
